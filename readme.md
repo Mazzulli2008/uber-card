@@ -1,6 +1,10 @@
-# Meu primeiro projeto HTML e CSS
+# Meu primeiro projeto Front-end
 
-## Objetivo do projeto
+![Captura de tela 2024-12-04 195432](https://github.com/user-attachments/assets/1e0baafc-7596-432a-a7fb-b71b3be1340e)
 
-Este é o primeiro projeto em HTML com css para ilustrar uma solicitação de uma corrida do Uber.
+Projeto feito como parte de um treinamento onde seu principal objetivo era a criação de um card do Uber.
 
+## Ferramentas Utilizadas ⚙️
+
++ HTML
++ CSS
